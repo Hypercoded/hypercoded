@@ -2,23 +2,17 @@
 
 ## I'm Jordan!
 
-🔭 I’m currently working on [NYCSchoolsCOVIDTracker](https://github.com/Hypercoded/NYCSchoolsCOVIDTracker/), a better system for tracking COVID Cases for the biggest school district in the USA.
+🔭 I’m currently working on [ClassMatch](https://github.com/Hypercoded/classmatch), as a school-wide class directory, to see who shares what periods and teachers with you.
 
 😄 Pronouns: He/Him
 
-⚡ A bit about me: I'm a sophomore in HS and my hobbies include programming/video editing! 
+⚡ A bit about me: I'm a rising junior in HS and my hobbies include programming/video editing! 
 
 
 
-🌱 I’m currently learning <img alt="Java" src="https://img.shields.io/badge/-Java-FFFFFF?logo=java&logoColor=red&style=flat-square&" /> and continuing to mess around with <img alt="Python" src="https://img.shields.io/badge/-Python-3e68c9?logo=python&logoColor=white&style=flat-square&" />
+🌱 I'm currently trying to improve my extracurriculars for school, if there's an open-source project you think I'd enjoy working on, let me know!
 
 
-
-🏫In case you're wondering, the classes I'm taking are 
-* 🌎 AP World History 💻 AP CSA
-* 🧠 Algebra2/Trig      🍎 Physics,
-* 📕 ELA 2             🇨🇳 Chinese 2 
-* 🤔 College Philosophy / 🎹 Music Production
 
 
 
