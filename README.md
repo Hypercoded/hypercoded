@@ -2,16 +2,11 @@
 
 ## I'm Jordan!
 
-🔭 I’m currently working on [ClassMatch](https://github.com/Hypercoded/classmatch), as a school-wide class directory, to see who shares what periods and teachers with you.
+🔭 I’m currently working on preparing for college applications!
 
 😄 Pronouns: He/Him
 
-⚡ A bit about me: I'm a rising junior in HS and my hobbies include programming/video editing! 
-
-
-
-🌱 I'm currently trying to improve my extracurriculars for school, if there's an open-source project you think I'd enjoy working on, let me know!
-
+⚡ A bit about me: I'm a junior in HS and my hobbies include programming/video editing! 
 
 
 
